@@ -11,7 +11,7 @@ djangorestframework = "*"
 pyjwt = "*"
 drf-yasg = "*"
 gunicorn = "*"
-psycopg2 = "==2.7.7"
+psycopg2 = "*"
 django-heroku = "*"
 django-cors-headers = "*"
 
